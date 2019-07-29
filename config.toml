@@ -9,6 +9,7 @@ enableEmoji = true
 
 [params]
     homeSubtitle = "Full Stack Developer"
+    customCSS = ["css/custom.css"]
 
     [[params.social]]
         name = "twitter"

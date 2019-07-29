@@ -3,7 +3,7 @@
 +++
 
 <img src="https://avatars2.githubusercontent.com/u/20542050?s=400&u=dd2cda94b9fd4c62cb15be6d7dc4e33d211bee33&v=4" 
-    style="float:right; border-radius: 50%; width: 300px; margin-left: 30px;"/>
+    class="profile image"/>
 
 <p>
 Fala! meu nome é Paulo Ricardo tenho 20 anos trabalho oficialmente como programador desde meus 17 anos :rocket: mas comecei a programar aos meus 15 anos, se contar saber declarar uma variável :sweat_smile:.
