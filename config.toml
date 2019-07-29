@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.paulosales.me/"
 languageCode = "pt-br"
 title = "Paulo Sales"
 theme="hermit"
@@ -6,6 +6,7 @@ enableEmoji = true
 
 [author]
     name = "Paulo Sales"
+    homepage = "http://www.paulosales.me"
 
 [params]
     homeSubtitle = "Full Stack Developer"
