@@ -1,4 +1,29 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "pt-br"
+title = "Paulo Sales"
 theme="hermit"
+enableEmoji = true
+
+[author]
+    name = "Paulo Sales"
+
+[params]
+    homeSubtitle = "Full Stack Developer"
+
+    [[params.social]]
+        name = "twitter"
+        url = "https://twitter.com/pricardonds"
+
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/paulodsn"
+
+    [[params.social]]
+        name = "linkedin"
+        url = "https://linkedin.com/in/paulodsn"
+
+[menu]
+    [[menu.main]]
+    name = "Quem sou eu?"
+    url = "quem-sou-eu/"
+    weight = 10
