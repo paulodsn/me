@@ -9,6 +9,7 @@ enableEmoji = true
     homepage = "https://paulosales.me"
 
 [params]
+    description = "Full Stack Developer. Eu crio e faço as ideias ganharem asas com coisas simples. Fala! eu sou o Paulo. É um prazer =D"
     homeSubtitle = "Full Stack Developer"
     customCSS = ["css/custom.css"]
 
