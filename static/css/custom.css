@@ -1,12 +1,11 @@
 .profile.image {
-    border-radius: 40px;
+    border-radius: 50%;
     margin: 0 0 0 30px;
     float: right;
 }
 
 @media only screen and (max-width: 600px) {
     .profile.image {
-        border-radius: 40px;
         margin: 0 0 30px 0;
     }
 }
