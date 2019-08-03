@@ -14,7 +14,7 @@ Por que eu comecei? Desde de criança criava meus próprios brinquedos :tractor:
 </p>
 
 <p>
-Com o que eu trabalho? Ultimamente tenho trabalhando com as tecnologias Vue.js, MongoDB e Node.js mas já trabalhei com Laravel, .Net e ASP.Net. Minhas principais linguagens de programação são Javascript, PHP e C# :space_invader:.
+Com o que eu trabalho? Atualmente estou trabalhando com as tecnologias Vue.js, MongoDB e Node.js mas já trabalhei com Laravel, .Net e ASP.Net. Minhas principais linguagens de programação são Javascript, PHP e C# :space_invader:.
 
 # Quer falar comigo?
 Me envie um <a href="maito:pauloricardodsn@gmail.com">email</a> e vamos conversar um pouco :smiley:.
