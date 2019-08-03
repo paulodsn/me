@@ -10,7 +10,7 @@ Fala! meu nome é Paulo Ricardo tenho 20 anos, trabalho oficialmente como progra
 </p>
 
 <p>
-Por que eu comecei? Desde de criança criava meus próprios brinquedos :tractor:, então um belo dia encontrei na programação uma forma de colocar em prática minhas próprias idéias :bulb:.
+Por que eu comecei? Desde de criança criava meus próprios brinquedos :tractor:, então um belo dia encontrei na programação uma forma de colocar em prática minhas próprias ideias :bulb:.
 </p>
 
 <p>
