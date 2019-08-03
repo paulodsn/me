@@ -6,7 +6,7 @@
     class="profile image"/>
 
 <p>
-Fala! meu nome é Paulo Ricardo tenho 20 anos, trabalho oficialmente como programador desde meus 17 anos :rocket:, mas comecei a programar aos meus 15 anos(se contar saber declarar uma variável :sweat_smile:).
+Fala! meu nome é Paulo Ricardo tenho 20 anos, trabalho oficialmente como programador desde meus 17 anos :rocket:, mas comecei a programar aos meus 15 anos :sweat_smile:.
 </p>
 
 <p>
