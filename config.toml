@@ -28,5 +28,5 @@ enableEmoji = true
 [menu]
     [[menu.main]]
     name = "Quem sou eu?"
-    url = "quem-sou-eu/"
+    url = "quem-sou-eu"
     weight = 10
