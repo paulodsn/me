@@ -4,6 +4,9 @@ title = "Paulo Sales"
 theme="hermit"
 enableEmoji = true
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [author]
     name = "Paulo Sales"
     homepage = "https://paulosales.me"
@@ -27,6 +30,11 @@ enableEmoji = true
 
 [menu]
     [[menu.main]]
-    name = "Quem sou eu?"
-    url = "quem-sou-eu"
-    weight = 10
+        name = "Quem sou eu?"
+        url = "quem-sou-eu/"
+        weight = 10
+
+    [[menu.main]]
+        name = "Projetos"
+        url = "projetos/"
+        weight = 20
