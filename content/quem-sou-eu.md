@@ -7,15 +7,16 @@ title = "Quem sou eu?"
     class="profile image"
 />
 
-Hi! meu nome é Paulo Ricardo tenho 21 anos, trabalho oficialmente como programador desde
-meus 17 anos :rocket:, mas comecei a programar aos meus 15 anos :sweat_smile:.
+Opa! meu nome é Paulo Ricardo tenho 22 anos e entrei nesse mundo da tecnologia por curiosidade de como
+desenvolver um jogo em uma plataforma chama <a href="http://www.byond.com/">Byond</a> aos meus 15 anos, em
+2015 (6 anos atrás) comecei a trabalhar oficialmente como desenvolvedor em uma software house onde pude aprender de tudo
+um pouco.
 
 Por que eu comecei? Desde criança construía meus próprios brinquedos, após algum tempo
-encontrei na programação uma forma de colocar em prática minhas próprias ideias :bulb:.
+encontrei na programação uma forma de colocar em prática minhas próprias ideias.
 
 Com o que eu trabalho? Atualmente estou trabalhando com as tecnologias Vue.js, MongoDB
-e Node.js, mas já trabalhei com Laravel, .Net e ASP.Net. Minhas principais linguagens de
-programação são Javascript, PHP e C# :space_invader:.
+e Node.js. Minhas principais linguagens de programação são Javascript e PHP.
 
 # Quer falar comigo?
 Me envie um <a href="mailto:pauloricardodsn@gmail.com">email</a> e vamos conversar um pouco :smiley:.
